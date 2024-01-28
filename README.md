@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Im a control/robotics engineer. Programming is what I enjoy the most in my career since it constantly challenges my brain to solve all kind of logic problems. I started as a C programmer and the most recent time I have been learning other languages and frameworks specially oriented to the backend web programming.
+- 🔭 I’m currently working on websites for music business of accesories and advertising music group services/concerts.
+- 🌱 I’m currently learning more about ReactJs, Express and MySQL/MongoDB.
 <!--
 **RodrigoCoronelLoza/RodrigoCoronelLoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
